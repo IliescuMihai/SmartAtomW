@@ -1,1 +1,2 @@
 # SmartAtomW
+Initializare
